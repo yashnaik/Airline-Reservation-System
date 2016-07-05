@@ -1,7 +1,7 @@
-Airline Reservation App : Part of Intel Prescreening for Full-time engineers
+Airline Reservation App 
 
 Completed By : Yash Naik
-Video : Intel_AirlineReservationApp.mp4 (Please look at the demo)
+Video : AirlineReservationApp.mp4 (Please look at the demo)
 
 Working:
 
